@@ -114,3 +114,15 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 - Location: **San Jose, CA, USA**
 - Date: **June 5-9, 2017**
 - Recurring conference? **Annual**
+
+-----
+
+### HasGeek ( All Conferences)
+- [https://hasgeek.com](https://hasgeek.com)
+- Childcare:
+  - **Free**
+  - **On-site**
+- Attendee scholarship available? **Yes**
+- Location: **Bangalore, India**
+- Date: **All year round**
+- Recurring conference? **Yearly**
